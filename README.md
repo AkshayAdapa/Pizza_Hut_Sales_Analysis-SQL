@@ -1,4 +1,4 @@
-https://github.com/AkshayAdapa/Pizza_Hut_Sales_Analysis-SQL/blob/main/Pizza%20hut%20sales%20analysis%20pic.png
+![Image Alt Text](https://github.com/AkshayAdapa/Pizza_Hut_Sales_Analysis-SQL/raw/main/Pizza%20hut%20sales%20analysis%20pic.png)
 
 # Pizza Hut Sales Data Analysis Project
 
